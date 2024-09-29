@@ -14,14 +14,14 @@ export default function LandingPage() {
             <span className="tracking-wide font-medium sm:text-5xl max-sm:text-2xl">
               Build Mini, <span className="font-extrabold">Deliver Max</span>
             </span>
-            <p className=" sm:text-base sm:mt-5 max-sm:mt-2 font-extralight sm:w-[560px] max-sm:px-5 max-sm:text-xs">
-              we specialize in creating simple yet powerful websites that make a
-              big impact. Whether it's a personal portfolio, product landing
-              page, or a blog, we focus on crafting minimalist designs with
-              maximum performance
+            <p className=" sm:text-sm sm:mt-5 max-sm:mt-2 font-light sm:w-[520px] max-sm:px-5 max-sm:text-xs">
+              Kami menyediakan layanan pembuatan website yang responsif, modern,
+              dan sesuai kebutuhan bisnis Anda. Mulai dari desain hingga
+              pengembangan, kami hadir untuk membantu Anda membangun kehadiran
+              online yang menarik dan efektif.
             </p>
             <button className="tracking-wider sm:text-xs sm:mt-5 max-sm:mt-3 font-medium bg-blue-700 bg-opacity-70 rounded py-4 px-14 max-sm:text-[10px]">
-              Get Certification
+              Pesan Sekarang
             </button>
           </h1>
         </div>
@@ -31,8 +31,8 @@ export default function LandingPage() {
       <div className=" bg-white sm:mt-16">
         <div className="container flex flex-col justify-center p-6 mx-auto sm:py-12 sm:px-40 lg:py-20 lg:flex-row lg:justify-between">
           <div className="flex flex-col justify-center text-black  p-6 text-center rounded-sm lg:max-w-md xl:max-w-lg lg:text-left">
-            <h1 className="max-sm:text-xl max-sm:mt-10 text-red-700 font-bold leading-none sm:text-4xl tracking-wide  max-sm:hidden">
-              WHY SAGARA <br /> IT CERTIFICATION?
+            <h1 className="max-sm:text-xl max-sm:mt-10 text-blue-900 font-bold leading-none sm:text-4xl tracking-wide  max-sm:hidden">
+              WHY Minimax Sites?
             </h1>
             <table className="mt-2">
               <tbody>
@@ -101,12 +101,12 @@ export default function LandingPage() {
       </div>
 
       {/*konten 2 */}
-      <div className="border-red-700 border-b-4 rounded-full my-3 w-20 mx-auto   max-sm:mt-8 "></div>
+      <div className="border-blue-900 border-b-4 rounded-full my-3 w-20 mx-auto   max-sm:mt-8 "></div>
 
-      <h1 className="flex sm:mb-4 sm:text-3xl font-normal sm:mt-10 justify-center text-center text-red-700 max-sm:text-xl">
+      <h1 className="flex sm:mb-4 sm:text-3xl font-normal sm:mt-10 justify-center text-center text-blue-800 max-sm:text-xl">
         Empower Yourself with
       </h1>
-      <h1 className="flex font-bold sm:text-3xl justify-center text-center text-red-800 max-sm:text-xl">
+      <h1 className="flex font-bold sm:text-3xl justify-center text-center text-blue-900 max-sm:text-xl">
         Our Certification
       </h1>
       <div className=" bg-white sm:mt-5">
@@ -119,7 +119,7 @@ export default function LandingPage() {
           </div>
 
           <div className="flex flex-col justify-center text-black  p-6 text-center rounded-sm lg:max-w-md xl:max-w-lg lg:text-left">
-            <h1 className="max-sm:text-xl max-sm:mt-10 text-red-700 font-bold leading-none sm:text-4xl tracking-wide  max-sm:hidden">
+            <h1 className="max-sm:text-xl max-sm:mt-10 text-blue-900 font-bold leading-none sm:text-4xl tracking-wide  max-sm:hidden">
               Front End Certification?
             </h1>
             <table className="mt-2">
@@ -164,7 +164,7 @@ export default function LandingPage() {
               </tbody>
             </table>
             <div className="flex justify-center mt-10">
-              <button className="bg-red-800 text-white py-3 px-20 rounded max-sm:text-xs">
+              <button className="bg-blue-800 text-white py-3 px-20 rounded max-sm:text-xs">
                 Get Detail
               </button>
             </div>

@@ -76,7 +76,7 @@ const Navbar = () => {
           </div>
           <div>
             <div
-              onClick={() => navigate("/dashboard")}
+              onClick={() => navigate("/")}
               className="bg-blue-800 py-2 px-5 text-white rounded text-sm cursor-pointer"
             >
               Dashboard

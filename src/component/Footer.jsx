@@ -97,7 +97,7 @@ export default function Example() {
       <div className="max-w-7xl mx-auto py-12 px-4 sm:px-6 lg:pt-16 lg:px-8">
         <div className="xl:grid xl:grid-cols-3 xl:gap-8">
           <div className="space-y-8 xl:col-span-1">
-            <img className="h-16" src="/assets/Logo2.png" alt="Company name" />
+            <img className="h-16" src="/assets/logo.png" alt="Company name" />
             <p className="text-white text-sm font-light">
               Plan, build, grow digital products. Continuously delivering
               impact.
